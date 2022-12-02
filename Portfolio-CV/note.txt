@@ -1,0 +1,18 @@
+Custom Properties => Variables css
+
+Reset => Hoja de reseteo
+
+Components =>Componentes 
+
+Utilities => Utilidades auxiliares reutilizables
+
+site styles => css que dificil podria ocupar en otro, propias de este sitio
+
+
+
+====================
+
+pointer-events => es una propiedad que dice: si activamos o no la reaccion a interactividad del elemnto html en cuestion
+
+sticky => es una mezcla del posicionamiento relativo con el fijo
+
